@@ -1,0 +1,8 @@
+$version=1
+!Day,Month,Year,Code,Name,Plant,Bus,Existing,NumberOfUnits,MinGen,MaxGen,MinReactivePower,MaxReactivePower,ReactivePowerFactor,GenDev,MaxDev,GR,GX,TR,TX,Tap
+1,1,2025,15,CANOAS_1_61,64,8716,0,1,0,88,0,0,0,0,0,0,0,0,0,0
+1,1,2025,16,CANOAS_1_60,64,8717,0,1,0,160,0,0,0,0,0,0,0,0,0,0
+1,10,2025,15,CANOAS_1_61,64,8716,0,1,0,88,0,0,0,0,0,0,0,0,0,0
+1,10,2025,16,CANOAS_1_60,64,8717,0,1,0,160,0,0,0,0,0,0,0,0,0,0
+1,1,2026,17,CANOAS_2_61,768,8716,0,1,0,88,0,0,0,0,0,0,0,0,0,0
+1,1,2026,18,CANOAS_2_60,768,8717,0,1,0,160,0,0,0,0,0,0,0,0,0,0

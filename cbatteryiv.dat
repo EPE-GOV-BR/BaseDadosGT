@@ -1,0 +1,3 @@
+$version=2
+!Code,Name,Bus,Existing,Emin,Emax,Einic,Pmax,ChargeEffic,DischargeEffic,RegTime,FlagInterStage,ChargeRamp,DischargeRamp,O&MType,O&MCost,RegType,ControlledBusCode,ReactivePowerControlType,MinReactivePower,MaxReactivePower,ReactivePowerFactor,GenDev,MaxDev,DevOpt
+20,BatFict IV,3654,1,0,0,0,0,1,1,0,0,-1,-1,0,0,,,0,0,0,1,0,0,0

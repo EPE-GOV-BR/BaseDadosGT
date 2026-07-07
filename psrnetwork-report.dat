@@ -1,0 +1,3 @@
+$version=2
+!circuits,contingencies,bridges,binary,threshold,fix_first_block,export_beta_matrix,export_b_matrix,matrix_export_first_stage,matrix_export_first_year,matrix_export_last_stage,matrix_export_last_year,cirflw_check,print_elements,matrix_export_use_selected_buses
+0,1,,,1,,0,,1,2025,12,2039,,,

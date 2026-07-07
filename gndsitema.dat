@@ -1,0 +1,9 @@
+$version=2
+!Code,Name,TechType,Datasource
+404,PCH_69_MA,4,1
+417,PCH_97_MA,4,1
+434,PCT_15,3,1
+304,UFV2,2,0
+560,GD_AME,2,0
+561,GD_CEA,2,0
+581,GD_RORAIMA,2,0

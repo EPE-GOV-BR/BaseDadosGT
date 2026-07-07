@@ -1,0 +1,9 @@
+dimension = "scenarios"
+dashboard = 1
+k = 4
+norm = 0
+initial_year = 2025
+final_year = 2039
+save_dat = 1
+assignments_file = "clusterme"
+debug = 0

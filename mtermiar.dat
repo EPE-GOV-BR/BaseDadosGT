@@ -1,0 +1,12 @@
+$version=1
+MOD: 01/01/2026
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 799 T. NORTE 2 1    1    0               0     349    0.24 1.63664       0                                                                                          0                                          0
+MOD: 01/01/2030
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 823 GFAR-9517       1    0               0 7.36289     2.5 4.93749       0                                                                                          0                                          0
+ 824 GFAR-9520       1    0               0 3.83117     2.5 4.93749       0                                                                                          0                                          0
+ 825 GFAR-9540       1    0               0  3.8947     2.5 4.93749       0                                                                                          0                                          0
+ 826 GFAR-9541       1    0               0  8.6086     2.5 4.93749       0                                                                                          0                                          0
+ 827 GFAR-9573       1    0               0 3.56178     2.5 4.93749       0                                                                                          0                                          0
+ 828 GFAR-41973      1    0               0 3.37087     2.5 4.93749       0                                                                                          0                                          0

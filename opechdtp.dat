@@ -1,0 +1,8 @@
+$version=1
+!Code,Name........,TurbiningTravelTime,SpillingTravelTime,DischargeRampUp,DischargeRampDown,RampUp,RampDown,Commitment,StartupCost,MaxStartup,TurbRampUp,TurbRampDown,SpilRampUp,SpilRampDown,ForebayRampUp,ForebayRampDown,ForebayRampUpDay,ForebayRampDownDay
+225,SLT APIACAS,4,4,,,,,0,0,0,,,,,,,,
+227,SINOP,4,4,,,,,0,0,0,,,,,,,,
+228,COLIDER,108,108,,,,,0,0,0,,,,,,,,
+229,TELES PIRES,4,4,,,,,0,0,0,,,,,,,,
+230,SAO MANOEL,4,4,,,,,0,0,0,,,,,,,,
+309,JURUENA,4,4,,,,,0,0,0,,,,,,,,

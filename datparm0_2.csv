@@ -1,0 +1,33 @@
+2,Language 0=Eng,1=Esp,2=Por
+1,Initial month of the study
+2025 ,Initial year of the study
+0 ,Maximum number of iterations
+12 ,Investment stage length in months
+1 ,Operation stage length in months
+180 ,Study length in months
+4 ,Number of load levels
+2 ,Print level(1=Normal;2=Detailed)
+0 ,Deficit Cost ($/MWh) (belongs to sddp data)
+8 ,Annual discount factor (%)
+3 ,Convergence tolerance (%)
+0 ,Xpress relative MIP stopping criteria (%)
+0 ,Xpress limit time (s)
+0 ,Cut strategy
+3 ,Solve the Inv/Ope problem
+0 ,Restart
+0 ,Inv.Problem
+0,Read plan in P-format,,
+,Filename for expansion plan in X-format,,
+0 ,Year Horizon
+0,Minimum number of iterations
+0,Environmental impact cost (k$/EU)
+5,Number of years for LRMC
+0,NREP
+0,Check operation feasibility
+0,GAP
+0,Minimum number of iterations to consecutive decisions
+2,Expansion planning simulation
+0,Criterion to count repeated decisions (0=OR,1=AND)
+0,Initial month of the study (task 2)
+0,Initial year of the study (task 2)
+0,Study length in months (task 2)

@@ -1,0 +1,6 @@
+$version=1
+!Code,Name,Plant,Bus,Existing,NumberOfUnits,MinTurb,MaxTurb,MinGen,MaxGen,ControlledBusCode,ReactivePowerControlType,MinReactivePower,MaxReactivePower,ReactivePowerFactor,DevOpt,GenDev,MaxDev,GR,GX,TR,TX,Tap
+54,SALTO_OSO123,78,8972,0,3,0,903,0,551.835,,0,,,,0,,,,,,,
+55,SALTO_OSO124,78,8973,0,3,0,903,0,551.835,,0,,,,0,,,,,,,
+14,CANASTRA_125,361,9038,0,2,0,8,0,22.4,,0,,,,0,,,,,,,
+15,CANASTRA_126,361,9039,0,2,0,8,0,22.4,,0,,,,0,,,,,,,

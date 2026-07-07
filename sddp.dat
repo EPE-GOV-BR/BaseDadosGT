@@ -1,0 +1,178 @@
+PLANO DECENAL DE EXPANSAO DA GERACAO 2035 - EPE
+IDIOMA                       2  0=ING; 1=ESP; 2=POR
+OBJETIVO                     1  1=POL; 2=SIM;
+OPCION                       3  1=AIS; 2=COO; 3=INT;
+ETAPA                        2  1=SEMANAL; 2=MENSUAL; 3=TRIM.
+CAUDALES                     1  0=LECT; 1=ARP; 2=HIST; 3=FORW&BACK
+USA CRON. MANTENIMIENTO      1  0=USA IP;  1=USA CRONOG;
+TIPO DE CONFIGURACION        1  0=ESTATICA;1=DINAMICA;
+REPRESENTACION DE LA RED     0  0=NO;     ; 1=SI;
+PERDAS TRANSMISION           0  0=NO;     ; 1=SI;
+HORIZONTE                    1  0=INFINITO;1=FINITO;
+SERIES A SIMULAR             0  0=TODAS;   1=SELECCIONADAS
+MES/SEMANA INICIAL           1
+ANO INICIAL               2025
+NUMERO DE ETAPAS           180
+MES  COND. INIC. HIDRO       1
+ANO COND. INIC. HIDRO     2023
+NUMERO DE SISTEMAS          14
+NUMERO DE SERIES          1200
+NUMERO DE DISCRETIZ         30
+NUMERO DE BLOQUES DEMANDA    4 1
+NUMERO DE ANOS ADICIONAL     5 0 0
+NUMERO MAXIMO ITERACIONES   12
+CRITERIO CONVERGENCIA       2  det=%; est=#de desv;
+NIVEL INFORMES               0  0=NORMALES; 1=DETALLADOS;
+TASA DE DESCUENTO         0.08
+PEN. DEFL. MINIMA          200  us$/hm3   vert           0.1  k$/hm3
+------------------------- SISTEMAS ----------------------------
+  10    1    2    3    4    5    6    7    8    9   11  100  200  300
+------------------------- SERIES A SIMULAR --------------------
+...# ...1 ...2 ...3 ...4 ...5 ...6 ...7 ...8 ...9 ..10 ..11
+   0
+------------------------- Costo Deficit --------------------------------
+.....% ......c1 .....% ......c2 .....% ......c3 .....% ......c4
+   100  8327.76
+------------------------- Funcion de Costo Futuro ----------------------
+Crea funcion costo futuro    0  0=no; 1=si
+Etapa                        0  ee
+Ano                          0  19aa
+Nombre del archivo:     <_____> Default teeaaxx.fcf
+Lee funcion costo futuro     0  0=no; 1=si
+Nombre del archivo:     <     >
+------------------------- Hot start ---------------------------------
+Usa archivo FCF              0  0=no; 1=si
+(N/A)
+------------------------- Cut Elimination ---------------------------
+Usa eliminacion de cortes    0   0=no; 1=si
+Frecuencia                   0
+------------------------- Stages Init and Finish to FCF -------------
+Etapa inicial de la FCF      1
+Etapa final de la FCF      240
+------------------------- Keywords -----------------------------
+DCRO PMHI 1
+DCRO PMTR 1
+DCRO CARR 1
+DCRO VALE 1
+DCRO VMIN 1
+DCRO VESP 1
+DCRO MNSP 1
+DCRO RGER 0
+DCRO FCON 1
+DCRO FRAT 1
+DCRO MXTO 1
+DCRO MROD 1
+DCRO MNTO 1
+DCRO GMIN 1
+DCRO RESG 1
+DCRO DUVA 1
+DCRO RIEG 1
+DCRO CEMI 1
+DCRO CCMB 1
+DCRO CCST 1
+DCRO FCCR 1
+DCRO FRCI 1
+DCRO FRCR 1
+DCRO VMXO 1
+DCRO MXSP 0
+DCHR BMAP 1
+DCHR LOAD 1
+DCHR RENW 1
+DCHR CLOD 3
+DCHR PINJ 3
+DCHR CINJ 3
+DCHR MTDY 3
+VBCK 0
+FTAB 0
+FKMX 0
+TCND 1
+CMON 2
+CCAR -1
+MACM 1
+UMON R$
+RSMP 0
+PSER 1
+AVRS 1
+CARP 1
+VNOC 0
+RGAS 0
+ARCV 0
+MNIT 12
+SABS 1
+VIEX 0
+CIEX 0
+DEMV 0
+RFLW 0
+CFLW 0
+MXLS 6
+SIMH 0
+ITAL 3
+GSFI 0
+CVCT 1
+CCTA 15
+CCTL 40
+BINF 1
+VCLA 0
+FLSL 0
+RDIC 0
+DBLK 0
+TBLK 1
+CBLK 0
+EMFO 1
+FOUT 1
+RBAT 0
+NCNV 0
+LTHR 1
+HCTS 0
+HCHR 0
+RHRZ 0
+CEFC 1
+BDIS 0
+PNWW 0
+PFSL 0
+GOUT 1
+NOUT 1
+TDAY 0
+CCNT -1
+CNIT 0
+DFCF 0
+NCOO 0
+NCOS 0
+SCOM 0
+RFOR 0
+MXLP 0
+NCRM 1
+CSRS 0
+RFCF 0
+RFIT 0
+BLVP 0
+GAME 0
+TRUP 0
+HINS 0
+JRAS 1
+GEXC 0
+NETA 1
+FBLK 0
+NCPL_MIPR 0.005
+NCPL_LTOL 0.1
+NCPL_SLCE 1
+NCPL_NMXT 300
+NCPL_SCRS 1
+NCPL_RMIP 1
+NCPL_NCSP 1
+NCPL_DSLC 168
+NCPL_TERF 0
+NCPL_CCOS 1
+NCPL_RAMP 1
+NCPL_INCO 0
+NCPL_INWT 0
+NCPL_BINS 0
+NCPL_NDIS 4
+NCPL_KDIS 10
+NCPL_UDNC 0
+INFM 0
+STYP 1
+NCPL_RTOL 0
+NCPL_LPEN 0
+MTHR 1
+----------------------------EOF----------------------------

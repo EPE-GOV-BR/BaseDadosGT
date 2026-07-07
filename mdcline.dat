@@ -1,0 +1,4 @@
+$version=1
+!Day,Month,Year,Code,Name,BusFromCode,BusToCode,Length,Existing,Decommissioned,Resistance,Inductance,Rating,EmergencyRating,OutageProbability
+1,1,2030,18219,DC_18219,5101,5102,0,0,9.76,1820,2500,3000,0
+1,1,2030,18220,DC_18220,5105,5106,0,0,9.76,1820,2500,3000,0

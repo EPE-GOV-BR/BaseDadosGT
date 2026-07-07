@@ -1,0 +1,69 @@
+$version=1
+MOD: 01/01/2025
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 201 APARECIDA       2    0               0 145.001   12.81 23.1856       0                                                                                          0                                          0
+ 203 C. ROCHA   1    2    0               0 67.0148       1 21.5128       0                                                                                          0                                          0
+ 204 JARAQUI    2    2    0               0 63.0032       4       4       0                                                                                          0                                          0
+ 205 MANAUARA   2    1    0               0 66.3389     2.5 2.88025       0                                                                                          0                                          0
+ 140 MAUA 3     1    2    0               0  590.75    9.76 17.3221       0                                                                                          0                                          0
+ 207 PONTA NEGRA2    1    0               0 64.0121     2.5 3.01675       0                                                                                          0                                          0
+ 209 TAMBAQUI   2    1    0               0 77.6605       4       4       0                                                                                          0                                          0
+ 322 BBF BALIZA      2    0               0 17.0645    1.17 6.73413       0                                                                                          0                                          0
+ 326 JAGUATIRI II    3    0               0 126.282     2.5  3.9625       0                                                                                          0                                          0
+ 327 M.CRISTO SUC    2    0               0   40.56       2    2.98       0                                                                                          0                                          0
+ 323 BONFIM          1    0               0    11.5       2    3.96       0                                                                                          0                                          0
+ 324 CANTA           1    0               0    11.5       2    3.96       0                                                                                          0                                          0
+MOD: 01/02/2026
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 329 PAU RAINHA      1    0               0    11.5       2    3.96       0                                                                                          0                                          0
+ 330 SANTA LUZ       1    0               0    11.5       2    3.96       0                                                                                          0                                          0
+MOD: 01/06/2026
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 328 PALMAPLAN 2     1    0               0   11.55    0.91 2.25763       0                                                                                          0                                          0
+MOD: 01/09/2026
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 260 AZULAO          1    0               0  295.43       3 5.97789       0                                                                                          0                                          0
+MOD: 01/01/2027
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 262 AZULAO II       1    0               0  295.43       3 5.97789       0                                                                                          0                                          0
+ 263 AZULAO IV       1    0               0  295.43       3 5.97789       0                                                                                          0                                          0
+ 264 MANAUS I        1    0               0  162.91     2.5 4.44999       0                                                                                          0                                          0
+MOD: 01/01/2028
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 829 GFMA-10032      1    0               0 81.9164     2.5 4.93749       0                                                                                          0                                          0
+ 830 GFMA-10400      1    0               0 200.732     2.5 4.93749       0                                                                                          0                                          0
+ 831 GFMA-10010      1    0               0 189.122     2.5 4.93749       0                                                                                          0                                          0
+ 832 GFMA-52207      1    0               0 239.249     2.5 4.93749       0                                                                                          0                                          0
+MOD: 01/07/2028
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 327 M.CRISTO SUC    2    0               0       0       2    2.98       0                                                                                          0                                          0
+MOD: 01/12/2030
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 201 APARECIDA       2    0               0       0   12.81 23.1856       0                                                                                          0                                          0
+ 203 C. ROCHA   1    2    0               0       0       1 21.5128       0                                                                                          0                                          0
+ 204 JARAQUI    2    2    0               0       0       4       4       0                                                                                          0                                          0
+ 205 MANAUARA   2    1    0               0       0     2.5 2.88025       0                                                                                          0                                          0
+ 140 MAUA 3     1    2    0               0       0    9.76 17.3221       0                                                                                          0                                          0
+ 207 PONTA NEGRA2    1    0               0       0     2.5 3.01675       0                                                                                          0                                          0
+ 209 TAMBAQUI   2    1    0               0       0       4       4       0                                                                                          0                                          0
+MOD: 01/01/2031
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 784 JARAQUI    1    2    0               0   75.48       4       4       0                                                                                          0                                          0
+ 785 MANAUARA   1    1    0               0    73.4     2.5 2.88025       0                                                                                          0                                          0
+ 786 PONTA NEGRA1    1    0               0    73.4     2.5 3.01675       0                                                                                          0                                          0
+ 787 TAMBAQUI   1    1    0               0   93.04       4       4       0                                                                                          0                                          0
+ 788 MAUA 3     2    2    0               0  590.75    9.76 17.3221       0                                                                                          0                                          0
+MOD: 01/07/2031
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 783 C. ROCHA   2    2    0               0   85.38       1 21.5128       0                                                                                          0                                          0
+MOD: 01/07/2036
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 322 BBF BALIZA      2    0               0       0    1.17 6.73413       0                                                                                          0                                          0
+ 323 BONFIM          1    0               0       0       2    3.96       0                                                                                          0                                          0
+ 324 CANTA           1    0               0       0       2    3.96       0                                                                                          0                                          0
+ 328 PALMAPLAN 2     1    0               0       0    0.91 2.25763       0                                                                                          0                                          0
+ 329 PAU RAINHA      1    0               0       0       2    3.96       0                                                                                          0                                          0
+ 330 SANTA LUZ       1    0               0       0       2    3.96       0                                                                                          0                                          0
+MOD: 01/02/2037
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 326 JAGUATIRI II    3    0               0       0     2.5  3.9625       0                                                                                          0                                          0

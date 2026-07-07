@@ -1,0 +1,4 @@
+$version=1
+!Code,Name,Plant,Bus,Existing,NumberOfUnits,MinTurb,MaxTurb,MinGen,MaxGen,ControlledBusCode,ReactivePowerControlType,MinReactivePower,MaxReactivePower,ReactivePowerFactor,DevOpt,GenDev,MaxDev,GR,GX,TR,TX,Tap
+42,ITAIPU_153,66,3584,0,10,0,6630,0,7000,,0,0,0,0,0,0,0,,,,,
+43,ITAIPU_154,66,3637,0,10,0,6630,0,7000,,0,0,0,0,0,0,0,,,,,

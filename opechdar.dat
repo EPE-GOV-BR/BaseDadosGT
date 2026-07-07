@@ -1,0 +1,6 @@
+$version=1
+!Code,Name........,TurbiningTravelTime,SpillingTravelTime,DischargeRampUp,DischargeRampDown,RampUp,RampDown,Commitment,StartupCost,MaxStartup,TurbRampUp,TurbRampDown,SpilRampUp,SpilRampDown,ForebayRampUp,ForebayRampDown,ForebayRampUpDay,ForebayRampDownDay
+276,RONDON 2,4,4,,,,,0,0,0,,,,,,,,
+279,SAMUEL,4,4,,,,,0,0,0,,,,,,,,
+285,JIRAU,18,18,,,,,0,0,0,,,,,,,,
+287,STO ANTONIO,4,4,,,,,0,0,0,,,,,,,,

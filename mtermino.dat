@@ -1,0 +1,41 @@
+$version=1
+MOD: 01/01/2025
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 212 MARANHAO II2    2    0               0   518.8     4.1 5.85497       0                                                                                          0                                          0
+  36 MARANHAO IV     2    0               0   337.6    1.31 2.06005       0                                                                                          0                                          0
+  21 MARANHAO V      2    0               0   337.6    1.43 2.67198       0                                                                                          0                                          0
+  46 N.VENECIA 2     2    0               0  178.21    1.17  3.0873       0                                                                                          0                                          0
+ 116 PARNAIBA IV     1    0               0   56.28    5.04 6.30297       0                                                                                          0                                          0
+ 239 PARNAIBA V      1    0               0  365.32     2.6 4.17788       0                                                                                          0                                          0
+ 176 PORTO ITAQUI    1    0               0  360.14    2.04 6.49717       0                                                                                          0                                          0
+MOD: 01/03/2025
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+  46 N.VENECIA 2     2    0               0  270.47    6.05 12.1004       0                                                                                          0                                          0
+MOD: 01/08/2025
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 240 NT BARCARENA    1    0               0 611.811     1.1 3.12745       0                                                                                          0                                          0
+MOD: 01/07/2026
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 116 PARNAIBA IV     1    0               0 56.2744     5.5  9.5635       0                                                                                          0                                          0
+  73 GERAMAR I       2    0               0 159.235     1.3  3.9649       0                                                                                          0                                          0
+  70 GERAMAR II      2    0               0 159.235     1.3  3.9649       0                                                                                          0                                          0
+MOD: 01/09/2026
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 259 PORTOCEM I      1    0               0 1571.89     1.5  3.6473       0                                                                                          0                                          0
+MOD: 01/01/2028
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+  36 MARANHAO IV     2    0               0       0    1.31 2.06005       0                                                                                          0                                          0
+  21 MARANHAO V      2    0               0       0    1.43 2.67198       0                                                                                          0                                          0
+ 176 PORTO ITAQUI    1    0               0       0    2.04 6.49717       0                                                                                          0                                          0
+ 847 GINO-13096      1    0               0 614.481     2.5 4.93749       0                                                                                          0                                          0
+ 848 GINO-236        1    0               0 113.312     2.5 4.93749       0                                                                                          0                                          0
+ 849 GINO-13101      1    0               0 518.207     2.5 4.93749       0                                                                                          0                                          0
+MOD: 01/07/2029
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 847 GINO-13096      1    0               0 861.063     2.5 4.93749       0                                                                                          0                                          0
+ 848 GINO-236        1    0               0 158.782     2.5 4.93749       0                                                                                          0                                          0
+ 849 GINO-13101      1    0               0 726.155     2.5 4.93749       0                                                                                          0                                          0
+MOD: 01/01/2034
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 212 MARANHAO II2    2    0               0       0     4.1 5.85497       0                                                                                          0                                          0
+ 777 MARANHAO II1    2    0               0   518.8     4.1 5.85497       0                                                                                          0                                          0

@@ -1,0 +1,6 @@
+$version=1
+!Day,Month,Year,Code,Name,ACBusCode,DCBusCode,GroundBusCode,Existing,Decommissioned,NominalCurrent,Xc,MinTap,MaxTap,TapSteps,MaxDcAcCapacity,MaxAcDcCapacity,MinIgnitionAngle,MaxIgnitionAngle,DesiredIgnitionAngle,MinExtinctionAngle,MaxExtinctionAngle,DesiredExtinctionAngle,NominalPower,Capacitance
+1,1,2030,5201,LCC_5201,41201,5101,5103,0,0,3125,15,0.955,1.355,99,2500,2500,5,85,15,5,85,15,1476,0
+1,1,2030,5202,LCC_5202,41202,5102,5104,0,0,3125,15,0.935,1.34,99,2500,2500,17,80,17,17,80,17,1423,0
+1,1,2030,5203,LCC_5203,41201,5105,5107,0,0,3125,15,0.955,1.355,99,2500,2500,5,85,15,5,85,15,1476,0
+1,1,2030,5204,LCC_5204,41202,5106,5108,0,0,3125,15,0.935,1.34,99,2500,2500,17,80,17,17,80,17,1423,0

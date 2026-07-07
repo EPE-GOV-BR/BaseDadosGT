@@ -1,0 +1,6 @@
+$version=1
+!Code,Name........,TurbiningTravelTime,SpillingTravelTime,DischargeRampUp,DischargeRampDown,RampUp,RampDown,Commitment,StartupCost,MaxStartup,TurbRampUp,TurbRampDown,SpilRampUp,SpilRampDown,ForebayRampUp,ForebayRampDown,ForebayRampUpDay,ForebayRampDownDay
+267,ESTREITO TOC,61,61,,,,,0,0,0,,,,,,,,
+272,CURUA-UNA,4,4,,,,,0,0,0,,,,,,,,
+275,TUCURUI,4,4,,,,,0,0,0,,,,,,,,
+314,B.MONTE COMP,4,4,,,,,0,0,0,,,,,,,,

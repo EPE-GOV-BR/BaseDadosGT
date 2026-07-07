@@ -1,0 +1,12 @@
+recipe = 2
+dimension = "days"
+chrono = 0
+dashboard = 1
+k = 2
+sort = "descending"
+norm = 0
+initial_year = 2025
+final_year = 2039
+save_csv = 1
+debug = 0
+mapday = 1

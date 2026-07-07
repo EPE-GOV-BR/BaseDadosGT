@@ -1,0 +1,16 @@
+$version=1
+!Code,Name,Plant,Bus,Existing,NumberOfUnits,MinGen,MaxGen,ControlledBusCode,ReactivePowerControlType,MinReactivePower,MaxReactivePower,ReactivePowerFactor,DevOpt,GenDev,MaxDev,GR,GX,TR,TX,Tap
+51,MARANHAO_821,212,13016,0,1,,259.4,,0,,,,0,,,,,,,
+52,MARANHAO_831,212,13022,0,1,,259.4,,0,,,,0,,,,,,,
+53,MARANHAO_74,36,13003,0,1,,168.8,,0,,,,0,,,,,,,
+54,MARANHAO_75,36,13007,0,1,,168.8,,0,,,,0,,,,,,,
+55,MARANHAO_72,21,13008,0,1,,168.8,,0,,,,0,,,,,,,
+56,MARANHAO_73,21,13009,0,1,,168.8,,0,,,,0,,,,,,,
+65,N.VENECI_A76,46,13029,0,1,,89.105,,0,,,,0,,,,,,,
+66,N.VENECI_A77,46,13039,0,1,,89.105,,0,,,,0,,,,,,,
+26,GERAMAR_I80,73,13411,1,1,,79.6175,,0,,,,0,,,,,,,
+27,GERAMAR_I81,73,13412,1,1,,79.6175,,0,,,,0,,,,,,,
+28,GERAMAR_I78,70,13413,1,1,,79.6175,,0,,,,0,,,,,,,
+29,GERAMAR_I79,70,13414,1,1,,79.6175,,0,,,,0,,,,,,,
+49,MARANHAO_82_,777,13016,1,1,,259.4,,0,,,,0,,,,,,,
+50,MARANHAO_83_,777,13022,1,1,,259.4,,0,,,,0,,,,,,,

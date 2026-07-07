@@ -1,0 +1,9 @@
+$version=2
+!Year,Month,Day,Code,Name,Bus,Existing,Emin,Emax,Pmax,ChargeEffic,DischargeEffic,O&MCost,MinReactivePower,MaxReactivePower,ReactivePowerFactor,GenDev,MaxDev
+2028,7,1,14,Bateria AC/RO_2,9510,0,0,840.6117572,210.1529393,0.9,1,0,0,0,0,0,0
+2031,1,1,8,Bateria AC/RO,9510,0,0,254.69164,63.67291,0.9,1,0,0,0,0,0,0
+2032,1,1,8,Bateria AC/RO,9510,0,0,396.34364,99.08591,0.9,1,0,0,0,0,0,0
+2033,1,1,8,Bateria AC/RO,9510,0,0,530.85524,132.71381,0.9,1,0,0,0,0,0,0
+2034,1,1,8,Bateria AC/RO,9510,0,0,674.49324,168.62331,0.9,1,0,0,0,0,0,0
+2035,1,1,8,Bateria AC/RO,9510,0,0,821.19244,205.29811,0.9,1,0,0,0,0,0,0
+2036,1,1,8,Bateria AC/RO,9510,0,0,973.97684,243.49421,0.9,1,0,0,0,0,0,0

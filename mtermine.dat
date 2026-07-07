@@ -1,0 +1,73 @@
+$version=1
+MOD: 01/01/2025
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+  98 PERNAMBU_III    1    0               0  200.79   34.26 43.7923       0                                                                                          0                                          0
+ 235 CAMACARI MII    1    0               0  144.45       3    3.97       0                                                                                          0                                          0
+ 162 PECEM II        1    0               0  144.45       3    3.97       0                                                                                          0                                          0
+ 167 P. PECEM I      1    0               0  720.28    2.76 6.24119       0                                                                                          0                                          0
+ 163 P. PECEM II     1    0               0     365    1.04 5.90883       0                                                                                          0                                          0
+ 224 P. SERGIPE I    2    0               0  1593.2    13.3 14.7219       0                                                                                          0                                          0
+ 106 ERB CANDEIAS    1    0             1.4 12.8998   30.88 38.2482       0                                                                                          0                                          0
+  53 GLOBAL I        1    0               0   148.8    7.42  8.0588       0                                                                                          0                                          0
+  55 GLOBAL II       1    0               0   148.8    9.75 10.6796       0                                                                                          0                                          0
+ 223 PROSPERI III    1    0               0   55.99    0.77 4.66974       0                                                                                          0                                          0
+ 241 PROSPERID II    1    0               0   37.44    1.83 5.49174       0                                                                                          0                                          0
+ 147 PROSPERIDADE    1    0               0   28.02    3.12 5.62919       0                                                                                          0                                          0
+  96 TERMOPE         2    0               0     550    1.37 7.36671       0                                                                                          0                                          0
+  43 TERMOBAHIA 1    1    0               0 158.945    3.78 13.4597       0                                                                                          0                                          0
+  83 VALE DO ACU2    1    0               0    92.4    5.67 18.3951       0                                                                                          0                                          0
+ 170 SUAPE II   2    6    0               0  381.26    5.67 12.8297       0                                                                                          0                                          0
+MOD: 01/03/2025
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+  53 GLOBAL I        1    0               0       0    7.42  8.0588       0                                                                                          0                                          0
+  55 GLOBAL II       1    0               0       0    9.75 10.6796       0                                                                                          0                                          0
+MOD: 01/10/2025
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+  43 TERMOBAHIA 1    1    0               0       0    3.78 13.4597       0                                                                                          0                                          0
+MOD: 01/01/2026
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 762 TERMOBAHIA 2    1    0               0   185.9    3.78 13.4597       0                                                                                          0                                          0
+ 763 TERMOCEARA 1    1    0               0     223   16.01 19.8148       0                                                                                          0                                          0
+ 793 TERMONE    1    1    0               0  170.85    1.76 2.32979       0                                                                                          0                                          0
+MOD: 01/07/2026
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+  53 GLOBAL I        1    0               0 126.525       2    3.96       0                                                                                          0                                          0
+  55 GLOBAL II       1    0               0 126.346       2    3.96       0                                                                                          0                                          0
+ 151 POTIGUAR        1    0               0 45.5398     2.5 4.44999       0                                                                                          0                                          0
+ 161 POTIGUAR III    1    0               0 48.5118    2.84  4.7832       0                                                                                          0                                          0
+MOD: 01/01/2027
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 170 SUAPE II   2    6    0               0       0    5.67 12.8297       0                                                                                          0                                          0
+ 794 TERMOPB    2    1    0               0  170.85    2.33 2.97462       0                                                                                          0                                          0
+ 798 TERMOCABO  1    1    0               0   49.73    0.69 2.51731       0                                                                                          0                                          0
+ 811 SUAPE II   1    6    0               0  381.26    5.67 12.8297       0                                                                                          0                                          0
+MOD: 01/08/2027
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 167 P. PECEM I      1    0               0       0    2.76 6.24119       0                                                                                          0                                          0
+MOD: 01/01/2028
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 796 PETROLINA  1    1    0               0   136.2    4.34 7.01848       0                                                                                          0                                          0
+MOD: 01/07/2028
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 842 GINE-11151      1    0               0 254.907     2.5 4.93749       0                                                                                          0                                          0
+ 843 GINE-11525      1    0               0 219.865     2.5 4.93749       0                                                                                          0                                          0
+ 844 GINE-253        1    0               0 299.156     2.5 4.93749       0                                                                                          0                                          0
+ 845 GINE-336        1    0               0 92.6974     2.5 4.93749       0                                                                                          0                                          0
+ 846 GINE-141        1    0               0 133.375     2.5 4.93749       0                                                                                          0                                          0
+MOD: 01/09/2028
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 163 P. PECEM II     1    0               0       0    1.04 5.90883       0                                                                                          0                                          0
+  83 VALE DO ACU2    1    0               0       0    5.67 18.3951       0                                                                                          0                                          0
+MOD: 01/01/2029
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+  98 PERNAMBU_III    1    0               0       0   34.26 43.7923       0                                                                                          0                                          0
+ 767 VALE DO ACU1    1    0               0     110    5.67 18.3951       0                                                                                          0                                          0
+MOD: 01/10/2035
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 162 PECEM II        1    0               0       0       3    3.97       0                                                                                          0                                          0
+MOD: 01/11/2035
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 235 CAMACARI MII    1    0               0       0       3    3.97       0                                                                                          0                                          0
+MOD: 01/07/2038
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+ 147 PROSPERIDADE    1    0               0       0    3.12 5.62919       0                                                                                          0                                          0

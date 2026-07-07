@@ -1,0 +1,21 @@
+$version=1
+!.Num ....Name.... FROM........ TO.......... Type Currency    CapacFT     LossFT    CapacTF     LossTF
+!                                                                  MW         pu         MW         pu
+    1 SE -> SU     SUDESTE      SUL             0      R$       99999          0      99999          0
+    2 SE -> NE     SUDESTE      NORDESTE        0      R$        6000          0   8500.086          0
+    3 SE -> AR     SUDESTE      AC RO           0      R$         430          0       6750          0
+    4 SE -> TP     SUDESTE      T. PIRES        0      R$           0          0       3600          0
+    5 SE -> PA     SUDESTE      PARANA          0      R$       99999          0      99999          0
+    6 SE -> IV     SUDESTE      IVAIPORA        0      R$           0          0      99999          0
+    7 SE -> IM     SUDESTE      IMPERATRIZ      0      R$        5000          0   4619.005          0
+    8 SE -> XI     SUDESTE      XINGU           0      R$        4200          0       8000          0
+    9 SU -> IT     SUL          ITAIPU          0      R$           0          0      99999          0
+   10 SU -> IV     SUL          IVAIPORA        0      R$       99999          0      99999          0
+   11 NE -> IM     NORDESTE     IMPERATRIZ      0      R$        6200          0       7800          0
+   12 NO -> MA     NORTE        MAN AP BV       0      R$           0          0          0          0
+   13 NO -> IM     NORTE        IMPERATRIZ      0      R$       99999          0      99999          0
+   14 NO -> XI     NORTE        XINGU           0      R$       99999          0      99999          0
+   15 IT -> IV     ITAIPU       IVAIPORA        0      R$       99999          0          0          0
+   16 MA -> XI     MAN AP BV    XINGU           0      R$        1000          0   740.7159          0
+   17 BM -> XI     B. MONTE     XINGU           0      R$       11000          0      11000          0
+   18 IM -> XI     IMPERATRIZ   XINGU           0      R$       99999          0      99999          0

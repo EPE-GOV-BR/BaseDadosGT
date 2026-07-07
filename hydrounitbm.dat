@@ -1,0 +1,3 @@
+$version=1
+!Code,Name,Plant,Bus,Existing,NumberOfUnits,MinTurb,MaxTurb,MinGen,MaxGen,ControlledBusCode,ReactivePowerControlType,MinReactivePower,MaxReactivePower,ReactivePowerFactor,DevOpt,GenDev,MaxDev,GR,GX,TR,TX,Tap
+8,B.MONTE_P,288,4941,0,18,0,13950,0,11000,,0,0,0,0,0,0,0,,,,,

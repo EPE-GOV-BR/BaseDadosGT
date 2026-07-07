@@ -1,0 +1,5 @@
+$version=1
+!Code,Name,BusFromCode,BusToCode,FlowControlType,Existing,Decommissioned,Xmin,Xmax,Rn,Re,OutageProbability,FlagMonitored,FlagContingency,FlagOutageSampling,MeteringEnd
+18202,CSC IP2TCS-MA500/IMPERA-MA500 01,736,539,0,0,0,-1.76,-0.59,99999,99999,0,1,0,0,1
+18203,CSC ZIN----RJ138/ZINRL1-RJ138 01,4267,38040,0,0,0,-9999,-1e-04,360,454,0,1,0,0,1
+18204,CSC ZIN----RJ138/ZINRL2-RJ138 01,4267,38041,0,0,0,-9999,-1e-04,360,454,0,1,0,0,1

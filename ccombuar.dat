@@ -1,0 +1,5 @@
+$version=2
+!Code,Name,FuelUnit,Cost,EmissionFactor,CostType
+194,DIESEL,MWh,0,0,0,,
+549,GAS,MWh,652,0,0,,
+799,BIOCOMB,MWh,2235.54,0,0,,

@@ -1,0 +1,9 @@
+$version=1
+!Code,Name........,TurbiningTravelTime,SpillingTravelTime,DischargeRampUp,DischargeRampDown,RampUp,RampDown,Commitment,StartupCost,MaxStartup,TurbRampUp,TurbRampDown,SpilRampUp,SpilRampDown,ForebayRampUp,ForebayRampDown,ForebayRampUpDay,ForebayRampDownDay
+154,ITAPEBI,4,4,,,,,0,0,0,,,,,,,,
+169,SOBRADINHO,60,60,,,,,0,0,0,,,,,,,,
+172,ITAPARICA,3,3,,,,,0,0,0,,,,,,,,
+176,COMP PAF-MOX,3,3,,,,,0,0,0,,,,,,,,
+178,XINGO,4,4,,,,,0,0,0,,,,,,,,
+189,P. CAVALO,4,4,,,,,0,0,0,,,,,,,,
+190,B. ESPERANCA,4,4,,,,,0,0,0,,,,,,,,

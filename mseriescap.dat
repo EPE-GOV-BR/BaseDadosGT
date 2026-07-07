@@ -1,0 +1,4 @@
+$version=1
+!Day,Month,Year,Code,Name,BusFromCode,BusToCode,Existing,Decommissioned,Xmin,Xmax,Rn,Re,OutageProbability
+1,1,2030,18203,CSC ZIN----RJ138/ZINRL1-RJ138 01,4267,38040,0,0,-9999,-1e-04,360,454,0
+1,1,2030,18204,CSC ZIN----RJ138/ZINRL2-RJ138 01,4267,38041,0,0,-9999,-1e-04,360,454,0

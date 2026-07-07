@@ -1,0 +1,4 @@
+$version=2
+!Code,Name,Bus,Existing,Emin,Emax,Einic,Pmax,ChargeEffic,DischargeEffic,RegTime,FlagInterStage,ChargeRamp,DischargeRamp,O&MType,O&MCost,RegType,ControlledBusCode,ReactivePowerControlType,MinReactivePower,MaxReactivePower,ReactivePowerFactor,GenDev,MaxDev,DevOpt
+8,Bateria AC/RO,9510,1,0,0,0,0,0.9,1,0,0,,,0,0,,,0,,,,,,0
+14,Bateria AC/RO_2,9510,1,0,0,0,0,0.9,1,0,0,,,0,0,,,0,,,,,,0

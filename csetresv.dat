@@ -1,0 +1,95 @@
+.Num ........Nome Si .Cod ........Nome
+  10 PARANA       pa    1 CAMARGOS    
+  10 PARANA       pa    6 FURNAS      
+  10 PARANA       pa    7 MASC. MORAES
+  10 PARANA       pa   14 CACONDE     
+  10 PARANA       pa   17 MARIMBONDO  
+  10 PARANA       pa   18 A. VERMELHA 
+  10 PARANA       pa   20 BATALHA     
+  10 PARANA       pa   21 SERRA FACAO 
+  10 PARANA       pa   24 EMBORCACAO  
+  10 PARANA       pa   25 NOVA PONTE  
+  10 PARANA       pa   26 MIRANDA     
+  10 PARANA       pa   27 CAPIM BRANC1
+  10 PARANA       pa   28 CAPIM BRANC2
+  10 PARANA       pa   29 CORUMBA IV  
+  10 PARANA       pa   30 CORUMBA I   
+  10 PARANA       pa   31 ITUMBIARA   
+  10 PARANA       pa   33 SAO SIMAO   
+  10 PARANA       pa   34 _I. SOLTEIRA
+  10 PARANA       pa   37 BARRA BONITA
+  10 PARANA       pa   40 PROMISSAO   
+  10 PARANA       pa   43 _TRES IRMAOS
+  10 PARANA       pa  153 SAO DOMINGOS
+  10 PARANA       pa  203 CORUMBA III 
+  10 PARANA       pa  290 ESPORA      
+  10 PARANA       pa  312 B. COQUEIROS
+  12 PARANANEMA   pa   47 A.A. LAYDNER
+  12 PARANANEMA   pa   49 CHAVANTES   
+  12 PARANANEMA   pa   53 PARANAPANEMA
+  12 PARANANEMA   pa   61 CAPIVARA    
+   1 SUDESTE      se  117 GUARAPIRANGA
+   1 SUDESTE      se  118 BILLINGS    
+   1 SUDESTE      se  120 JAGUARI     
+   1 SUDESTE      se  121 PARAIBUNA/PA
+   1 SUDESTE      se  122 S.BRANCA PAR
+   1 SUDESTE      se  123 FUNIL       
+   1 SUDESTE      se  124 LAJES       
+   1 SUDESTE      se  126 PICADA      
+   1 SUDESTE      se  139 CANDONGA    
+   1 SUDESTE      se  141 BAGUARI     
+   1 SUDESTE      se  143 AIMORES     
+   1 SUDESTE      se  145 SUICA       
+   1 SUDESTE      se  148 IRAPE       
+   1 SUDESTE      se  155 RETIRO BAIXO
+   1 SUDESTE      se  156 TRES MARIAS 
+   1 SUDESTE      se  162 QUEIMADO    
+   1 SUDESTE      se  185 BARRA BRAUNA
+   1 SUDESTE      se  195 JAURU       
+   1 SUDESTE      se  250 MIRADOR     
+   1 SUDESTE      se  251 SERRA MESA  
+   1 SUDESTE      se  257 PEIXE ANGICA
+   1 SUDESTE      se  278 MANSO       
+   1 SUDESTE      se  493 FORMOSO     
+   2 SUL          su   86 BARRA GRANDE
+   2 SUL          su   88 SAO ROQUE   
+   2 SUL          su   89 GARIBALDI   
+   2 SUL          su   90 CAMPOS NOVOS
+   2 SUL          su   91 MACHADINHO  
+   2 SUL          su   93 PASSO FUNDO 
+   2 SUL          su   95 QUEBRA QUEIX
+   2 SUL          su   97 CASTRO ALVES
+   2 SUL          su   98 MONTE CLARO 
+   2 SUL          su   99 14 DE JULHO 
+   2 SUL          su  103 FOZ CHAPECO 
+   2 SUL          su  110 ERNESTINA   
+   2 SUL          su  111 PASSO REAL  
+   2 SUL          su  115 G. P. SOUZA 
+   2 SUL          su  215 SALTO PILAO 
+  11 IGUACU       su   57 MAUA        
+  11 IGUACU       su   71 STA CLARA PR
+  11 IGUACU       su   73 JORDAO      
+  11 IGUACU       su   74 G. B. MUNHOZ
+  11 IGUACU       su   76 SEGREDO     
+  11 IGUACU       su   77 SLT.SANTIAGO
+  11 IGUACU       su   83 BAIXO IGUACU
+   3 NORDESTE     ne  154 ITAPEBI     
+   3 NORDESTE     ne  169 SOBRADINHO  
+   3 NORDESTE     ne  172 ITAPARICA   
+   3 NORDESTE     ne  189 P. CAVALO   
+   3 NORDESTE     ne  190 B. ESPERANCA
+   4 NORTE        no  272 CURUA-UNA   
+   4 NORTE        no  275 TUCURUI     
+   4 NORTE        no  314 B.MONTE COMP
+   5 ITAIPU       it   66 ITAIPU      
+   6 AC RO        ar  276 RONDON 2    
+   6 AC RO        ar  279 SAMUEL      
+   6 AC RO        ar  285 JIRAU       
+   6 AC RO        ar  287 STO ANTONIO 
+   9 MAN AP BV    ma  277 BALBINA     
+   9 MAN AP BV    ma  280 COARA NUNES 
+   9 MAN AP BV    ma  286 STO ANT JARI
+   9 MAN AP BV    ma  421 URUCUPATA   
+   8 B.MONTE      bm  288 BELO MONTE  
+   7 T. PIRES     tp  227 SINOP       
+  13 TAPAJOS      ta  234 JARDIM OURO 

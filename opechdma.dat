@@ -1,0 +1,9 @@
+$version=1
+!Code,Name........,TurbiningTravelTime,SpillingTravelTime,DischargeRampUp,DischargeRampDown,RampUp,RampDown,Commitment,StartupCost,MaxStartup,TurbRampUp,TurbRampDown,SpilRampUp,SpilRampDown,ForebayRampUp,ForebayRampDown,ForebayRampUpDay,ForebayRampDownDay
+204,CACH CALDEIR,2,2,,,,,0,0,0,,,,,,,,
+277,BALBINA,4,4,,,,,0,0,0,,,,,,,,
+280,COARA NUNES,2,2,,,,,0,0,0,,,,,,,,
+284,FERREIRA GOM,4,4,,,,,0,0,0,,,,,,,,
+286,STO ANT JARI,4,4,,,,,0,0,0,,,,,,,,
+339,BEM QUERER,4,4,,,,,0,0,0,,,,,,,,
+421,URUCUPATA,4,4,,,,,0,0,0,,,,,,,,

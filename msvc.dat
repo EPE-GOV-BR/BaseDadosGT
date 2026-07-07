@@ -1,0 +1,3 @@
+$version=1
+!Day,Month,Year,Code,Name,Bus,Existing,NumberOfUnits,MinReactivePower,MaxReactivePower,Droop,Decommissioned
+1,1,2039,46,ITABUNCER013 SVC 001,348,0,1,-100,100,1,0

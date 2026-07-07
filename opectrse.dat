@@ -1,0 +1,2 @@
+$version=1
+!Code,Name........,RampUp,RampDown,MinUptime,MinDowntime,MaxStartUps,MaxShutDowns,ShutdownCost,WarmStartUpCost,ColdStartUpCost,PartialCoolingTime,TotalCoolingTime,ConstantGen,MaxUpTime,RampUpCost,RampDownCost

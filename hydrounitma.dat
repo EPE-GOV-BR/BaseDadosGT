@@ -1,0 +1,4 @@
+$version=1
+!Code,Name,Plant,Bus,Existing,NumberOfUnits,MinTurb,MaxTurb,MinGen,MaxGen,ControlledBusCode,ReactivePowerControlType,MinReactivePower,MaxReactivePower,ReactivePowerFactor,DevOpt,GenDev,MaxDev,GR,GX,TR,TX,Tap
+16,COARA_NUN162,280,10020,0,2,0,198,0,39,,0,,,,0,,,,,,,
+17,COARA_NUN163,280,10021,0,2,0,198,0,39,,0,,,,0,,,,,,,

@@ -1,0 +1,17 @@
+recipe = 1
+dimension = "blocks"
+chrono = 0
+hrbmap = 1
+dashboard = 0
+k = 4
+sort = "descending"
+norm = 0
+enable_high = 1
+k_high = 1
+p_high = 0.014
+enable_low = 0
+k_low = 0
+p_low = 0.0
+initial_year = 2025
+final_year = 2039
+dashboard_title = "Demand per hour x per block"

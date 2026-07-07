@@ -1,0 +1,3 @@
+$version=1
+!Day,Month,Year,Code,Name,Plant,Bus,Existing,NumberOfUnits,MinTurb,MaxTurb,MinGen,MaxGen,MinReactivePower,MaxReactivePower,ReactivePowerFactor,GenDev,MaxDev,GR,GX,TR,TX,Tap
+1,7,2032,42,ITAIPU_153,66,3584,0,11,0,6630,0,8400,0,0,0,0,0,,,,,
