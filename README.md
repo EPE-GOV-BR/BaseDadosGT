@@ -1,6 +1,6 @@
 # BaseDadosGT
 
-<img src="logo/logo.png" align="right" height="100" />
+<img src="logo/logoGT.png" align="right" height="100" />
 
 Neste repositório serão disponibilizados os arquivos que compõem a base de dados integrada de geração e transmissão da EPE. Esta base de dados está em constante aprimoramento, e as atualizações serão publicadas por meio de commits neste repositório.
 
